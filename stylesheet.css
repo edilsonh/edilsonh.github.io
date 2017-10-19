@@ -80,11 +80,16 @@ footer {
   }
 
   input, textarea {
-    width: 80%;
+    width: 90%;
+  }
+
+  textarea {
+    height: 250px;
+    margin: 20px;
   }
 
   button {
     width: 45%;
-    height: 80px;
+    height: 100px;
   }
 }
