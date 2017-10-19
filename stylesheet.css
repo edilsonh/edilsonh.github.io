@@ -44,6 +44,14 @@ section {
 .portfolio {
   display: flex;
 }
+input, textarea {
+  width: 300px;
+}
+
+textarea {
+  height: 100px;
+  margin: 10px;
+}
 
 a:hover {
   opacity: .5;
