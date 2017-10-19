@@ -74,7 +74,7 @@ footer {
   padding: 5px;
 }
 
-@media only screen and (max-device-width: 500px) {
+@media only screen and (max-device-width: 769px) {
   input, textarea {
     width: 80%;
   }
