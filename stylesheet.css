@@ -1,0 +1,67 @@
+html, body {
+  margin: 0;
+  background-color: lightblue;
+}
+
+header {
+  background-color: darkseagreen;
+  color:  white;
+  z-index: 1;
+  position: sticky;
+  top: 0;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  padding: 15px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+span {
+  font-family: 'Varela Round', sans-serif;
+}
+
+p {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 23px;
+}
+
+section {
+  text-align: center;
+  padding: 50px;
+}
+
+#me-img {
+  width: 400px;
+  border-radius: 100px;
+  padding-top: 15px;
+}
+
+.portfolio {
+  display: flex;
+}
+
+a:hover {
+  opacity: .5;
+}
+
+.portfolio-img {
+  height: 150px;
+}
+
+footer {
+  background-color: darkseagreen;
+  color: white;
+  position: relative;
+  bottom: 0;
+  display: flex;
+}
+
+.footer-items {
+  margin: 0;
+  padding: 5px;
+}
