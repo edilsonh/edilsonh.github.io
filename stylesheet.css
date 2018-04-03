@@ -67,6 +67,12 @@ footer {
   position: relative;
   bottom: 0;
   display: flex;
+  justify-content: space-between;
+}
+
+.profile-page {
+  max-width: 40px;
+  padding-left: 10px;
 }
 
 .footer-items {
