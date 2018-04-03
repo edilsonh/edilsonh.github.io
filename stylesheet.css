@@ -5,10 +5,14 @@ html, body {
 
 header {
   background-color: darkseagreen;
-  color:  white;
   z-index: 1;
   position: sticky;
   top: 0;
+}
+
+#top {
+  text-decoration: none;
+  color: white;
 }
 
 h1, h2, h3 {
